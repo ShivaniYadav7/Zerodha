@@ -13,8 +13,8 @@ This project is a simplified Zerodha-style trading dashboard built using **React
 <img width="1356" height="680" alt="image" src="https://github.com/user-attachments/assets/7fa91d77-b74d-4ded-8bd1-a2ec19df05c3" />
 <img width="1365" height="686" alt="image" src="https://github.com/user-attachments/assets/918013ee-8260-4259-8194-a913880240ea" />
 <img width="1365" height="684" alt="image" src="https://github.com/user-attachments/assets/621d509b-1eee-4cae-b92d-fc0521c8885e" />
-<img width="1356" height="614" alt="Screenshot 2025-07-<img width="1361" height="679" alt="Screenshot 2025-07-26 234516" src="https://github.com/user-attachments/assets/5f181fa8-a8be-4b54-850b-7193b547f1a7" />
-26 211510" src="https://github.com/user-attachments/assets/16c02ec2-a345-4da2-a6bb-477819a76d65" />
+<img width="1356" height="614" alt="Screenshot 2025-07-26 211510" src="https://github.com/user-attachments/assets/b62e5323-d414-4cb9-8407-74b5caa3a0db" />
+
 
 
 
