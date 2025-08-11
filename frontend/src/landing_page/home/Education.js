@@ -5,7 +5,11 @@ function Education() {
     <div className="container mt-5">
       <div className="row align-items-center">
         <div className="col-md-6">
-          <img src="media\images\education.svg" className="img-fluid" />
+          <img
+            src={`${process.env.PUBLIC_URL}/media/images/education.svg`}
+            alt="Education illustration"
+            className="img-fluid"
+          />
         </div>
 
         <div className="col-md-6">
@@ -15,14 +19,14 @@ function Education() {
             covering everything from the basics to advanced trading.
           </p>
           <a href="" style={{ textDecoration: "none" }}>
-            Varsity<i className="fa fa-arrow-right" aria-hidden="true"></i>
+            Varsity <i className="fa fa-arrow-right" aria-hidden="true"></i>
           </a>
           <p className="mt-5">
             TradingQ&A, the most active trading and investment community in
             India for all your market related queries.
           </p>
           <a href="" style={{ textDecoration: "none" }}>
-            TradingQ&A<i className="fa fa-arrow-right" aria-hidden="true"></i>
+            TradingQ&A <i className="fa fa-arrow-right" aria-hidden="true"></i>
           </a>
         </div>
       </div>

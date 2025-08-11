@@ -28,11 +28,11 @@ function Navbar() {
   };
 
   return (
-    <nav className="navbar navbar-expand-lg bg-light border-bottom shadow-sm">
+    <nav className="navbar navbar-expand-lg bg-light border-bottom shadow-sm fixed-top">
       <div className="container p-2">
         <Link className="navbar-brand" to="/">
           <img
-            src="/media/images/logo.svg"
+            src={`${process.env.PUBLIC_URL}//media/images/logo.svg`}
             alt="Logo"
             style={{ height: "40px" }}
           />

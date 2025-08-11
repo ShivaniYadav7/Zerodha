@@ -4,11 +4,11 @@ function Hero() {
   return (
     <div className="container p-5 mb-5">
       <div className="row text-center align-items-center">
-        <div className="col-12">
+        <div className="col-12 img-fluid">
           <img
-            src="media/images/homeHero.png"
-            alt="Hero Image"
-            className="mb-5 img-fluid"
+            src={`${process.env.PUBLIC_URL}/media/images/homeHero.png`}
+            alt="HomeHero"
+            style={{ width: "90%" }}
           />
         </div>
         <h1 className="mt-5">Invest in everything</h1>

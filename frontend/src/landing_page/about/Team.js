@@ -1,4 +1,5 @@
 import React from "react";
+
 function Team() {
   return (
     <div className="container">
@@ -12,12 +13,12 @@ function Team() {
       >
         <div className="col-6 p-5 text-center">
           <img
-            src="media/images/founder.jpg"
+            src={`${process.env.PUBLIC_URL}/media/images/founder.jpg`}
             alt="founder"
             style={{ borderRadius: "100%", width: "50%" }}
           />
           <h4 className="mt-5">Shivani</h4>
-          <h6>Founder,CEO</h6>
+          <h6>Founder, CEO</h6>
         </div>
         <div className="col-6 p-5">
           <p>
@@ -28,8 +29,8 @@ function Team() {
           </p>
 
           <p>
-            She is a B.Tech student at Pimpri Chinchwad College of
-            Engineering,Pune.
+            She is a B.Tech student at Pimpri Chinchwad College of Engineering,
+            Pune.
           </p>
 
           <p>Playing badminton is her hobby.</p>
@@ -37,7 +38,7 @@ function Team() {
       </div>
 
       <p>
-        Connect on <a href="">Homepage</a> /<a href="">TradingQnA</a> /{" "}
+        Connect on <a href="">Homepage</a> / <a href="">TradingQnA</a> /{" "}
         <a href="">Twitter</a>
       </p>
       <p>

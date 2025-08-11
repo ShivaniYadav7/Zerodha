@@ -6,7 +6,7 @@ function Awards() {
       <div className="row align-items-center">
         <div className="col-md-6 p-5">
           <img
-            src="media/images/largestBroker.svg"
+            src={`${process.env.PUBLIC_URL}/media/images/largestBroker.svg`}
             alt="Largest broker illustration"
             className="img-fluid"
           />
@@ -47,7 +47,8 @@ function Awards() {
             </div>
           </div>
           <img
-            src="media/images/pressLogos.png"
+            src={`${process.env.PUBLIC_URL}/media/images/pressLogos.png`}
+            alt="Press logos"
             style={{ width: "90%" }}
             className="img-fluid"
           />
