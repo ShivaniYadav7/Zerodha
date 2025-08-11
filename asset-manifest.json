@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Zerodha/static/css/main.37406de3.css",
-    "main.js": "/Zerodha/static/js/main.10c61c8d.js",
+    "main.js": "/Zerodha/static/js/main.48546133.js",
     "index.html": "/Zerodha/index.html",
     "main.37406de3.css.map": "/Zerodha/static/css/main.37406de3.css.map",
-    "main.10c61c8d.js.map": "/Zerodha/static/js/main.10c61c8d.js.map"
+    "main.48546133.js.map": "/Zerodha/static/js/main.48546133.js.map"
   },
   "entrypoints": [
     "static/css/main.37406de3.css",
-    "static/js/main.10c61c8d.js"
+    "static/js/main.48546133.js"
   ]
 }
